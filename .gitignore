@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambientes
+.env
+.env.local
+.env.*.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios temporários
+tmp/
+temp/
+
+# Arquivos de build (caso use TypeScript ou bundlers)
+dist/
+build/
+
+# Uploads e arquivos dinâmicos
+uploads/
+storage/
+
+# Ignorar arquivos e pastas de banco de dados
+mysql/
